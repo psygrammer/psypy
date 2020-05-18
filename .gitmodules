@@ -1,3 +1,6 @@
 [submodule "ml/ref/handson-ml2"]
 	path = ml/ref/handson-ml2
 	url = https://github.com/ageron/handson-ml2
+[submodule "basic/ref/pydata-book"]
+	path = basic/ref/pydata-book
+	url = https://github.com/wesm/pydata-book.git
