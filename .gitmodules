@@ -7,3 +7,6 @@
 [submodule "nlp/ref/embedding"]
 	path = nlp/ref/embedding
 	url = https://github.com/ratsgo/embedding.git
+[submodule "large/ref/mastering-large-datasets"]
+	path = large/ref/mastering-large-datasets
+	url = https://github.com/jtwool/mastering-large-datasets.git
