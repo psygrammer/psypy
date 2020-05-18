@@ -4,3 +4,6 @@
 [submodule "basic/ref/pydata-book"]
 	path = basic/ref/pydata-book
 	url = https://github.com/wesm/pydata-book.git
+[submodule "nlp/ref/embedding"]
+	path = nlp/ref/embedding
+	url = https://github.com/ratsgo/embedding.git
