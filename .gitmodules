@@ -10,3 +10,6 @@
 [submodule "large/ref/mastering-large-datasets"]
 	path = large/ref/mastering-large-datasets
 	url = https://github.com/jtwool/mastering-large-datasets.git
+[submodule "vis/ref/Interactive-Data-Visualization-with-Python"]
+	path = vis/ref/Interactive-Data-Visualization-with-Python
+	url = https://github.com/TrainingByPackt/Interactive-Data-Visualization-with-Python.git
